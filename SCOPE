@@ -1,0 +1,11 @@
+[
+  "com.miui.screenrecorder",
+  "com.termux",
+  "com.google.android.apps.messaging",
+  "com.android.messaging",
+  "org.telegram.messenger",
+  "org.telegram.messenger.web",
+  "com.android.mms",
+  "com.android.phone",
+  "com.google.android.apps.subscriptions.red"
+]
